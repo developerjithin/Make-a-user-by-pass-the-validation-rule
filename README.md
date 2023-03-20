@@ -1,0 +1,1 @@
+# Salesforce-Lightning-Validation-rule-Make-a-user-by-pass-the-validation-rule
