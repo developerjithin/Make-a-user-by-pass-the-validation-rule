@@ -1,1 +1,1 @@
-# Salesforce-Lightning-Validation-rule-Make-a-user-by-pass-the-validation-rule
+This rule helps to make a user bypass the validation rule in Salesforce Lightning.
