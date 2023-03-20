@@ -1,0 +1,6 @@
+AND
+(
+$User.Alias <> 'sales233',
+NOT (ISBLANK (PRIORVALUE ( Phone ))),
+ISCHANGED (Phone)
+)
